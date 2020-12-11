@@ -1,0 +1,16 @@
+Final Assembly
+1. Distance4 (position of upper frame on base)
+2. Distance5 (positon of motor on the top bar)
+3. Distance7 (positon of the hammer)
+
+
+Upper Frame
+1. Distance1 (position of the top bar)
+
+
+Base Part
+1. Distance1 (position of the front horizontal bar)
+
+
+
+
