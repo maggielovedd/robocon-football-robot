@@ -4,13 +4,13 @@
 
 # Demo
 
-<img src="https://github.com/maggielovedd/ic-robocon/blob/main/doc/3.gif" width="400" alt=""> <img src="https://github.com/maggielovedd/ic-robocon/blob/main/doc/2.gif" width="400" alt="">
+<img src="Doc/3.gif" width="400" alt=""><img src="Doc/2.gif" width="400" alt="">
 
-<img src="https://github.com/maggielovedd/ic-robocon/blob/main/doc/4.gif" width="800" alt="">
+<img src="Doc/4.gif" width="800" alt="">
 
 # Pneumatic powered
 
-<img src="https://github.com/maggielovedd/ic-robocon/blob/main/doc/1.gif" width="800" alt="">  
+<img src="Doc/1.gif" width="800" alt="">  
 
 ## Remarks
-check [here](https://github.com/maggielovedd/ic-robocon/blob/main/doc/IC382%20Final%20Presentations.pdf) for detail
+check [here](Doc/IC382%20Final%20Presentations.pdf) for detail
