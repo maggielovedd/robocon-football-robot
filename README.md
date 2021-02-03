@@ -13,6 +13,5 @@ CAD model avaliable at [here](https://github.com/maggielovedd/robocon-football-r
 <img src="Doc/1.gif" width="800" alt="">  
 
 ## Note
-For detail, check [here](https://github.com/maggielovedd/robocon-football-robot/blob/main/Doc/IC382%20Final%20Design.pdf) for detail
-
+For detail, check [here](https://github.com/maggielovedd/robocon-football-robot/blob/main/Doc/IC382%20Final%20Design.pdf)
 
