@@ -1,6 +1,6 @@
-# IC Robocon - A robot football player
+# Robocon - A robot football player
 
-<img src="https://github.com/maggielovedd/ic-robocon/blob/main/doc/IMG_20200807_142925.jpg" width="400" alt="">
+CAD model avaliable at [here](https://github.com/maggielovedd/robocon-football-robot/tree/main/Design) 
 
 # Demo
 
@@ -12,5 +12,7 @@
 
 <img src="Doc/1.gif" width="800" alt="">  
 
-## Remarks
-check [here](Doc/IC382%20Final%20Presentations.pdf) for detail
+## Note
+For detail, check [here](https://github.com/maggielovedd/robocon-football-robot/blob/main/Doc/IC382%20Final%20Design.pdf) for detail
+
+
